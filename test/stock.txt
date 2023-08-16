@@ -1,0 +1,40 @@
+Stock Details
+
+Y6:   ipadAir1           20000       Ipad
+A2:   iphone xsMax       145000      iPhone
+B1:   Airpodspro         67000       Airpods
+E6:   HomePod mini       17000       Homepod
+K2:   iPad Pro           450000      iPad
+L8:   Mac mini           560000      Mac
+A3:   MacBook Air        267000      Mac
+B5:   MacBook Pro        500000      Mac
+O9:   Apple Pencil       15000       Pencil
+L7:   iphone 11 pro      167000      Iphone
+H5:   iMac               567000      iMac
+S1:   iPhone 7 plus      45000       iPhone
+D3:   iphone xsMax       100000      iPhone
+W4:   iphone X           89000       iPhone
+O9:   iphone 8plus       67000       iPhone
+J9:   iPad Air4          345000      iPad
+V8:   iphone 11          123000      iPhone
+K6:   iphone 14 pro      670000      iPhone
+J4:   iphone 14          450000      iPhone
+S9:   Macbook Pro 2014   123000      Mac
+G8:   Apple Watch Se     54000       Apple watch
+K0:   iphone SE          22000       iPhone
+L8:   Mac mini           560000      Mac
+A3:   MacBook Air        267000      Mac
+B5:   MacBook Pro        500000      Mac
+O9:   Apple Pencil       15000       Pencil
+L7:   iphone 11 pro      167000      Iphone
+H5:   iMac               567000      iMac
+S1:   iPhone 7 plus      45000       iPhone
+L7:   iphone 11 pro      167000      Iphone
+H5:   iMac               567000      iMac
+S1:   iPhone 7 plus      45000       iPhone
+D3:   iphone xsMax       100000      iPhone
+W4:   iphone X           89000       iPhone
+O9:   iphone 8plus       67000       iPhone
+J9:   iPad Air4          345000      iPad
+V8:   iphone 11          123000      iPhone
+A54:  iMac 2023          675000      iMac
